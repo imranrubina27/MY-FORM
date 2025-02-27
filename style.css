@@ -1,0 +1,19 @@
+body {
+    padding: 30px;
+  }
+  
+  input {
+    margin: 25px;
+    width: 800px;
+  height: 50px;
+  
+  box-sizing: border-box;
+  }
+  #form-message {
+    margin: 25px;
+    width: 800px;
+    height: 200px;
+    
+    box-sizing: border-box;
+  }
+ 
